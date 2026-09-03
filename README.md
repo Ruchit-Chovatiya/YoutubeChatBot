@@ -114,7 +114,7 @@ Responsibilities:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/youtube-rag-chatbot.git
+git clone https://github.com/Ruchit-Chovatiya/YoutubeChatBot.git
 cd youtube-rag-chatbot
 ```
 
